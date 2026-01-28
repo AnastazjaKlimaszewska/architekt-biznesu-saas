@@ -3,7 +3,7 @@
 ## Cel MVP
 Budowa minimalnego produktu, który rozwiązuje **główny problem** – utratę umiejętności psychologicznych z powodu cyfrowego uzależnienia – w 2-3 tygodniach.
 
-## 4 Kluczowe Użytkownicy
+## 4 Kluczowe Grupy Użytkowników
 1. **Profesjonaliści z branży tech** – szukają skupienia i kreatywności.
 2. **Studenci** – mają problem z prokrastynacją.
 3. **Freelancerzy** – potrzebują wytrwałości.
@@ -27,7 +27,7 @@ Budowa minimalnego produktu, który rozwiązuje **główny problem** – utratę
 ### 4. Gamifikacja
 - **Punkty:** Za każde ćwiczenie i spełnione limit – 10 punktów.
 - **Rangi:** Od "Początkujący" do "Mistrz Umiejętności".
-- **Nagrody:** Premium za 7 dni ciągłych.
+- **Nagrody:** Premium za 7 dni ciągłych ćwiczeń.
 
 ### 5. Statystyki
 - **Dzienna Statystyka:** Wykres punktów i ukończonych ćwiczeń.
