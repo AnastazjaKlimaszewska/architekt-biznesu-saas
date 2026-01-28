@@ -8,13 +8,13 @@ Analiza konkurencji w niszy **digital well-being z fokusem na ręczne monitorowa
 2. Ocena funkcji, cen, UX/UI.
 3. Wykrycie luk rynkowych.
 
-## Kluczowi Konkurencyjne
+## Kluczowi Konkurenci
 
 ### 1. Toggl Track
 - **Typ:** Darmowe narzędzie do śledzenia czasu.
-- **Funkcje:** Ręczne tracking, raporty, integracje.
+- **Funkcje:** Ręczne śledzenie czasu, raporty, integracje.
 - **Cena:** Darmowe (10 projektów), Premium 10$/mo.
-- **Wady:** Brak fokus na umiejętności psychologicznych; tylko tracking.
+- **Wady:** Brak fokusu na umiejętności psychologicznych; tylko tracking.
 
 ### 2. Freedom
 - **Typ:** Blokowanie rozpraszających witryn.
@@ -42,9 +42,9 @@ Analiza konkurencji w niszy **digital well-being z fokusem na ręczne monitorowa
 
 ## Wykryte Luki Rynkowe
 1. **Brak Fokus na Umiejętności Psychologicznych:** Żadne z narzędzi nie łączy monitorowania limitów z odzyskiwaniem umiejętności (skupienie, wytrwałość, kreatywność, dobre samopoczucie).
-2. **Ręczne Wprowadzanie Danych:** Wiele narzędzi skupia się na automatycznym tracking, ale SkillReclaim v3 oferuje ręczne monitorowanie, co zwiększa świadomość.
+2. **Ręczne Wprowadzanie Danych:** Wiele narzędzi skupia się na automatycznym trackingiem, ale SkillReclaim v3 oferuje ręczne monitorowanie, co zwiększa świadomość.
 3. **Gamifikacja:** Toggl Track i Freedom nie mają gamifikacji; SkillReclaim v3 oferuje punkty, rangi, nagrody.
-4. **Cena:** SkillReclaim v3 ma taką samą cenę jak Calm/Headspace, ale oferuje więcej funkcji (monitorowanie + umiejętności).
+4. **Cena:** SkillReclaim v3 ma taką samą cenę jak Calm/Headspace, ale oferuje szersze wsparcie zchowań  (monitorowanie + umiejętności).
 
 ## Unikalne Wartości Propozycji (UVP)
 > **SkillReclaim v3:** Aplikacja do odzyskiwania 4 kluczowych umiejętności psychologicznych przez ręczne monitorowanie limitów online i budowanie mikronawyków offline z gamifikacją.
