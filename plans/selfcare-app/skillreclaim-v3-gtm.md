@@ -14,7 +14,7 @@ Pozyskanie **pierwszych 100 użytkowników płacących** (15$/mo) w ciągu 6 mie
 - **Feedback:** Zbieranie opinii o funkcjach i UX/UI.
 
 ## Faza 2: Launch (2-3 miesiące)
-### 1. Kanały Posługiwania
+### 1. Kanały Dystrubucji
 - **Product Hunt:** Publikacja na Product Hunt – zaproszenie beta testerów do głosowania.
 - **LinkedIn Posts:** Publikacja o problemie utraty umiejętności i rozwiązaniu.
 - **Twitter Threads:** Tworzenie threadów o psychologii umiejętności.
@@ -23,7 +23,7 @@ Pozyskanie **pierwszych 100 użytkowników płacących** (15$/mo) w ciągu 6 mie
 - **Darmowe 14 Dni:** Dla pierwszych 100 użytkowników.
 - **Referral Program:** 1 miesiąc premium za każdego zaproszonego użytkownika.
 
-## Faza 3: Wyzwalanie Wzrostu (3-6 miesięcy)
+## Faza 3: Wyzwalanie Wzrostu poprzez rozszerzenie kanałów i funkcji zwiększających retencję (3-6 miesięcy)
 ### 1. Integracje
 - **Notion/Todoist:** Dodanie integracji z popularnymi narzędziami.
 - **Chrome Extension:** Publikacja w Chrome Web Store.
