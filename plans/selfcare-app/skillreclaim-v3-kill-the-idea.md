@@ -6,19 +6,19 @@
 **Monetyzacja:** Subskrypcja 15$/mo za plany premium.
 
 ## Założenia
-1. Utrata umiejętności jest rosnąącym problemem z cyfrowym uzależnieniem.
-2. Ręczne monitorowanie limitów + mikronawki offline rozwiązują ten problem.
+1. Utrata umiejętności jest rosnącym problemem z cyfrowym uzależnieniem.
+2. Ręczne monitorowanie limitów + mikronawyki offline rozwiązują ten problem.
 3. Rynek digital well-being ma potencjał do wzrostu.
 
 ## [RISKS]
 
 ### 1. Konkurencja
-- **Darmowe App:** Istnieją już darmowe narzędzia do ręcznego tracking czasu (np. Toggl Track), które mogą dodać podobne funkcje.
+- **Free Apps:** Istnieją już darmowe narzędzia do ręcznego trackingu czasu (np. Toggl Track), które mogą dodać podobne funkcje.
 - **Selfcare App:** Calm, Headspace mają integracje z dziennikami postępów.
 
 ### 2. Efektywność Psychologiczna
 - **Ręczne Wprowadzanie:** Użytkownicy mogą zapomnieć lub fałszować dane – wpływa na wiarygodność pomiarów.
-- **Mikronawki:** Czy 2-5 minutowych ćwiczeń wystarczy do odzyskiwania umiejętności? Brak dowodów na długoterminową skuteczność.
+- **Mikronawyki:** Czy 2-5 minutowych ćwiczeń wystarczy do odzyskiwania umiejętności? Brak dowodów na długoterminową skuteczność.
 
 ### 3. Techniczne Wyzwania
 - **Push Alerty:** Dla web app (React) push alerty są trudne do wdrożenia – lepiej emailowe.
@@ -30,7 +30,7 @@
 
 ### 5. Monetyzacja
 - **Cena:** 15$/mo – czy profesjonaliści zapłacą za coś, co mogą zrobić w notesie?
-- **Churn:** Wysoki ryzyko odejścia po miesiącu, jeśli nie zobaczą efektów.
+- **Churn:** Wysokie ryzyko odejścia po miesiącu, jeśli nie zobaczą efektów.
 
 ## Alternatywy
 
